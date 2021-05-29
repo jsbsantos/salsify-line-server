@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL 2": {
+      "commandName": "Project",
+      "commandLineArgs": "-file \"D:\\Work\\Salsify\\SalsifyLineServerChallenge\\testFile.txt\""
+    },
+    "SalsifyLineServer": {
+      "commandName": "Project",
+      "commandLineArgs": "-file \"D:\\Work\\Salsify\\SalsifyLineServerChallenge\\testFile.txt\""
+    }
+  }
+}

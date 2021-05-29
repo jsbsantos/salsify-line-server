@@ -1,0 +1,1 @@
+dotnet run --project ./SalsifyLineServer/SalsifyLineServer.csproj -file $1
